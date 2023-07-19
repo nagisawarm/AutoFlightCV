@@ -1,0 +1,1 @@
+This is a pipeline of evaluate on AutoFlightCV project
